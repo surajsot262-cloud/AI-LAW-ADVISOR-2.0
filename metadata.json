@@ -1,0 +1,6 @@
+{
+  "name": "Indian Legal Precedent & Summarization Hub",
+  "description": "An AI-powered legal research and case analysis platform featuring an AI Legal Advocate and Indian Jurisprudence Expert grounded in the Constitution of India, BNS, BNSS, BSA, and statutory laws.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
